@@ -1,0 +1,20 @@
+.portfolio-hover-content i{
+	padding:0 15px;
+
+}
+
+.fa-icons {
+
+	display:inline-block;
+	color: white;
+
+
+}
+
+a.fa-icons:visited {
+	color: white;
+}
+a.fa-icons:hover {
+	color: lightblue;
+}
+
